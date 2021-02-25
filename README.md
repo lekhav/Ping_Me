@@ -22,7 +22,7 @@
 
 ### Cassandra replication
   
-![Alt text](Picture6.png?raw=true "Architecture")
+![Alt text](Picture6.png?raw=true "Architecture") 
 
 ### Backend replication with Kafka
 
