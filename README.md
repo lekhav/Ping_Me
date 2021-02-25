@@ -10,7 +10,7 @@
 
                       Login page / Signup page
 
-![Alt text](Picture3.png?raw=true "Architecture")
+![Alt text](Picture3.png?raw=true "Architecture") 
 
 ![Alt text](Picture4.png?raw=true "Architecture")
 
