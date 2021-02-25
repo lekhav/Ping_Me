@@ -18,8 +18,6 @@
 
 ### Firebase user authentication/authorization
 
-![Alt text](Picture5.png?raw=true "Architecture")
-
 
 ### Cassandra replication
   
