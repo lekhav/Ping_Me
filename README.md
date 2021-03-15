@@ -27,4 +27,4 @@
 ### Backend replication with Kafka
 
 ![Alt text](Picture7.png?raw=true "Architecture")
-# Ping_Me 
+
